@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">World Cup 2026 travel planning illustration</title>
+  <desc id="desc">A stylized stadium, route map and travel tickets for a World Cup trip planner website.</desc>
+  <rect width="1200" height="780" fill="#eaf2ec"/>
+  <path d="M0 570 C170 500 250 610 420 540 C590 470 720 520 860 460 C990 405 1090 438 1200 395 L1200 780 L0 780 Z" fill="#1f6f4a"/>
+  <path d="M0 640 C210 580 330 655 520 600 C720 545 850 625 1200 520 L1200 780 L0 780 Z" fill="#11442e"/>
+  <circle cx="965" cy="145" r="72" fill="#c18b23"/>
+  <rect x="106" y="110" width="322" height="204" rx="18" fill="#fff" stroke="#d8ded8" stroke-width="4"/>
+  <path d="M134 268 L400 268" stroke="#d8ded8" stroke-width="4"/>
+  <path d="M158 152 H326 M158 190 H374 M158 228 H294" stroke="#1f6f4a" stroke-width="18" stroke-linecap="round"/>
+  <rect x="148" y="300" width="88" height="34" rx="10" fill="#b73535"/>
+  <rect x="252" y="300" width="88" height="34" rx="10" fill="#c18b23"/>
+  <g transform="translate(508 192)">
+    <ellipse cx="250" cy="255" rx="318" ry="108" fill="#17211c" opacity=".18"/>
+    <path d="M44 260 C54 112 154 38 250 38 C346 38 446 112 456 260 Z" fill="#f7faf5" stroke="#17211c" stroke-width="8"/>
+    <path d="M98 258 C118 158 174 108 250 108 C326 108 382 158 402 258 Z" fill="#1f6f4a"/>
+    <path d="M142 258 C158 190 196 158 250 158 C304 158 342 190 358 258 Z" fill="#11442e"/>
+    <path d="M40 260 H460" stroke="#17211c" stroke-width="8" stroke-linecap="round"/>
+    <path d="M88 260 V342 M174 260 V362 M250 260 V370 M326 260 V362 M412 260 V342" stroke="#f7faf5" stroke-width="10"/>
+  </g>
+  <path d="M300 482 C400 432 484 464 566 402 C646 342 735 372 846 286" fill="none" stroke="#c18b23" stroke-width="12" stroke-linecap="round" stroke-dasharray="24 24"/>
+  <circle cx="300" cy="482" r="20" fill="#b73535"/>
+  <circle cx="846" cy="286" r="20" fill="#b73535"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Stadium access illustration</title>
+  <desc id="desc">A stadium access map with transit lines, walking route and arrival markers.</desc>
+  <rect width="900" height="620" fill="#f3f6f2"/>
+  <path d="M64 486 C180 408 252 510 370 430 C492 348 590 388 728 284" fill="none" stroke="#1f6f4a" stroke-width="24" stroke-linecap="round"/>
+  <path d="M88 268 H340 V118 H566 V264 H812" fill="none" stroke="#c18b23" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="88" cy="268" r="22" fill="#b73535"/>
+  <circle cx="340" cy="118" r="22" fill="#b73535"/>
+  <circle cx="566" cy="264" r="22" fill="#b73535"/>
+  <circle cx="812" cy="264" r="22" fill="#b73535"/>
+  <ellipse cx="510" cy="430" rx="170" ry="72" fill="#11442e"/>
+  <path d="M380 428 C390 354 446 318 510 318 C574 318 630 354 640 428 Z" fill="#fff" stroke="#17211c" stroke-width="8"/>
+  <path d="M416 428 C432 386 468 368 510 368 C552 368 588 386 604 428 Z" fill="#1f6f4a"/>
+  <rect x="118" y="356" width="168" height="80" rx="16" fill="#fff" stroke="#d8ded8" stroke-width="6"/>
+  <path d="M148 386 H254 M148 412 H218" stroke="#17211c" stroke-width="12" stroke-linecap="round"/>
+</svg>

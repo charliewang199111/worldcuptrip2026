@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Fan zones illustration</title>
+  <desc id="desc">A lively city fan zone with flags, food stands and a big screen.</desc>
+  <rect width="900" height="620" fill="#eef5f0"/>
+  <rect y="410" width="900" height="210" fill="#11442e"/>
+  <rect x="72" y="168" width="250" height="178" rx="18" fill="#17211c"/>
+  <rect x="94" y="192" width="206" height="112" rx="10" fill="#1f6f4a"/>
+  <circle cx="198" cy="248" r="38" fill="#fff"/>
+  <path d="M198 210 L210 238 H240 L216 256 L226 286 L198 268 L170 286 L180 256 L156 238 H186 Z" fill="#c18b23"/>
+  <path d="M116 410 V332 M216 410 V332 M290 410 V332" stroke="#17211c" stroke-width="10"/>
+  <path d="M414 190 H730 L692 258 H414 Z" fill="#b73535"/>
+  <path d="M414 258 H692 L730 326 H414 Z" fill="#fff"/>
+  <path d="M414 326 H730 L692 394 H414 Z" fill="#1f6f4a"/>
+  <circle cx="160" cy="452" r="34" fill="#c18b23"/>
+  <circle cx="258" cy="452" r="34" fill="#b73535"/>
+  <circle cx="356" cy="452" r="34" fill="#c18b23"/>
+  <circle cx="590" cy="452" r="34" fill="#b73535"/>
+  <circle cx="690" cy="452" r="34" fill="#c18b23"/>
+  <path d="M92 520 C210 488 278 544 410 504 C552 462 660 526 808 482" fill="none" stroke="#c18b23" stroke-width="12" stroke-linecap="round"/>
+</svg>

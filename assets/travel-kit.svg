@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">World Cup travel kit illustration</title>
+  <desc id="desc">Travel essentials with tickets, passport, map and luggage for fans planning a World Cup trip.</desc>
+  <rect width="900" height="620" fill="#f7f3e9"/>
+  <rect x="116" y="112" width="236" height="360" rx="28" fill="#1f6f4a"/>
+  <rect x="162" y="82" width="146" height="56" rx="18" fill="none" stroke="#11442e" stroke-width="18"/>
+  <circle cx="176" cy="420" r="22" fill="#17211c"/>
+  <circle cx="292" cy="420" r="22" fill="#17211c"/>
+  <rect x="440" y="112" width="286" height="180" rx="20" fill="#fff" stroke="#d8ded8" stroke-width="6"/>
+  <path d="M478 162 H640 M478 204 H674 M478 246 H594" stroke="#b73535" stroke-width="16" stroke-linecap="round"/>
+  <rect x="492" y="336" width="258" height="132" rx="20" fill="#c18b23"/>
+  <path d="M536 378 H706 M536 420 H648" stroke="#fff" stroke-width="16" stroke-linecap="round"/>
+  <path d="M362 498 C438 452 520 516 600 466 C672 422 728 452 790 404" fill="none" stroke="#11442e" stroke-width="10" stroke-dasharray="22 18" stroke-linecap="round"/>
+  <circle cx="362" cy="498" r="18" fill="#b73535"/>
+  <circle cx="790" cy="404" r="18" fill="#b73535"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Hotel areas illustration</title>
+  <desc id="desc">Hotel district cards and a luggage icon for comparing where to stay.</desc>
+  <rect width="900" height="620" fill="#f6f4ed"/>
+  <rect x="86" y="96" width="220" height="340" rx="22" fill="#fff" stroke="#d8ded8" stroke-width="6"/>
+  <rect x="340" y="144" width="220" height="292" rx="22" fill="#fff" stroke="#d8ded8" stroke-width="6"/>
+  <rect x="594" y="78" width="220" height="358" rx="22" fill="#fff" stroke="#d8ded8" stroke-width="6"/>
+  <path d="M126 156 H236 M126 196 H264 M126 236 H220" stroke="#1f6f4a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M380 204 H500 M380 244 H470 M380 284 H512" stroke="#b73535" stroke-width="16" stroke-linecap="round"/>
+  <path d="M634 138 H762 M634 178 H728 M634 218 H780" stroke="#c18b23" stroke-width="16" stroke-linecap="round"/>
+  <rect x="330" y="466" width="240" height="88" rx="24" fill="#1f6f4a"/>
+  <rect x="390" y="426" width="120" height="64" rx="18" fill="none" stroke="#11442e" stroke-width="16"/>
+  <circle cx="386" cy="554" r="18" fill="#17211c"/>
+  <circle cx="514" cy="554" r="18" fill="#17211c"/>
+</svg>

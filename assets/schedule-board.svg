@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">World Cup schedule board illustration</title>
+  <desc id="desc">A clean schedule board with date rows and time zone labels.</desc>
+  <rect width="900" height="620" fill="#edf4ef"/>
+  <rect x="94" y="78" width="712" height="464" rx="26" fill="#fff" stroke="#d8ded8" stroke-width="6"/>
+  <rect x="94" y="78" width="712" height="88" rx="26" fill="#1f6f4a"/>
+  <path d="M152 214 H748 M152 304 H748 M152 394 H748" stroke="#d8ded8" stroke-width="5"/>
+  <circle cx="156" cy="122" r="18" fill="#c18b23"/>
+  <circle cx="214" cy="122" r="18" fill="#b73535"/>
+  <path d="M158 244 H300 M158 334 H348 M158 424 H314" stroke="#17211c" stroke-width="18" stroke-linecap="round"/>
+  <path d="M454 244 H652 M454 334 H704 M454 424 H634" stroke="#1f6f4a" stroke-width="18" stroke-linecap="round"/>
+  <rect x="618" y="104" width="132" height="36" rx="12" fill="#fff" opacity=".92"/>
+  <path d="M640 122 H728" stroke="#11442e" stroke-width="10" stroke-linecap="round"/>
+  <path d="M106 542 C264 496 338 570 480 520 C630 468 720 518 808 482" fill="none" stroke="#c18b23" stroke-width="10" stroke-linecap="round"/>
+</svg>
